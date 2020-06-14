@@ -1,0 +1,4 @@
+baseURL = "https://teddymartin.co/"
+languageCode = "en-us"
+title = "Teddy's Homepage"
+theme = "ananke"
