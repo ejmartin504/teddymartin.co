@@ -1,7 +1,6 @@
 ---
 title: "Fantasyland"
 date: 2020-06-14T16:39:16-04:00
-draft: true
 ---
 
 How did things in this country get _so_ out of whack that a Twitter troll, a petulant billionaire without a shred of compassion, wisdom or political understanding, has risen to the most powerful position in the world? A spate of recent books have arrived over the past year that attempt various explanations, comforts, and warnings about this strange and disorienting time. A friend of mine recommended Kurt Andersen’s [Fantasyland](https://www.penguinrandomhouse.com/books/209776/fantasyland-by-kurt-andersen/9780812978902/) to me earlier this summer, and I got it from the library shortly thereafter. It's a hefty book, one that promises a sweeping history of America, to help us understand how American went "haywire." Unlike most non-fiction I’ve picked up recently, I devoured it, all ~500 pages of it, in a few short weeks.
